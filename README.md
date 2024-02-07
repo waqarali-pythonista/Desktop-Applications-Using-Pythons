@@ -1,5 +1,5 @@
 # Desktop-Applications-Using-Python
-List of Apllication 
+List of Applications 
 
 1. Google Maps Locator
    Python application using Tkinter that allows users to input a location and open it directly in Google Maps using a web browser. The interface is minimalist, consisting of an entry 
